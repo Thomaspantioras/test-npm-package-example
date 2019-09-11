@@ -9,7 +9,7 @@ Removes all spaces from a string.
 # Install
 $ npm install @thomas_p/test_package_example
 
-#Usage
+# Usage
 const removeAllSpaces = require("@bamblehorse/tiny");
 
 removeAllSpaces("So much space!");
